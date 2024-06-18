@@ -1,0 +1,146 @@
+{
+  "home": "Главная",
+  "settings": "Настройки",
+  "categories": "Категории",
+  "search": "Поиск",
+  "athletes": "Спортсмены",
+  "coaches": "Тренеры",
+  "sportNews": "Новости спорта",
+  "kindsOfSport": "Виды спорта",
+  "hello": "Добро пожаловать в \nСпортпортал!",
+  "slogan": "Следите за спортом вместе с нами!",
+  "darkTheme": "Темная тема",
+  "language": "Язык",
+  "categoryName": "{categoryName, select, sportNews{Новости спорта} kindsOfSport{Виды спорта} coaches{Тренеры} athletes{Спортсмены} healthCare{Охрана здоровья} gyms{Спортзалы} competitions{Соревнования} properNutrition{Спортивное питание} shops{Магазин} other{Не локализировано}}",
+  "@categoryName": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "categoryDescription": "{categoryName, select, sportNews{Национальные и мировые спортивные новости}  kindsOfSport{Федерации спорта входящие в состав Министерства спорта и молодежной политики Турменистана} coaches{Тренеры входящие в состав Министерства спорта и молодежной политики Турменистана} athletes{Спортсмены входящие в состав Министерства спорта и молодежной политики Турменистана} healthCare {Перечень медицинских услуг Государственного научно-практического центра спортивной медицины} gyms{Все спортивные комплексы и спортивные команды, действующие в Туркменистане} competitions{Все спортивные соревнования и мероприятия, проводимые в Туркменистане} properNutrition{Торговая площадка всех спортивных магазинов нашей страны} shops{Торговая площадка всех спортивных магазинов нашей страны} other{not localized}}",
+  "@categoryDescription": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "sportCategory": "{categoryName, select, athletics{Федерация Легкой атлетики Туркменистана} basketball{Федерация Баскетбола Туркменистана} boxing{Федерация Бокса Туркменистана} cycling{Федерация Велосипедного спорта Туркменистана} football{Федерация Футбола Туркменистана} pingPong{Федерация Настольного тенниса Туркменистана} weightlifting{Федерация Тяжелой атлетики Туркменистана} other{Не найдено}}",
+  "@sportCategory": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "seeAll": "Посмотреть все",
+  "athlete": "Игрок",
+  "coach": "Тренер",
+  "informationTiles": "{tileName, select, workHistory{Места работы} awards{Награды} other{Не найдено}}",
+  "@informationTiles": {
+    "placeholders": {
+      "tileName": {}
+    }
+  },
+  "age": "Возраст",
+  "birthPlace": "Место рождения",
+  "workingExperience": "Опыт работы",
+  "sportLevel": "Спортивный уровень",
+  "workPlace": "Место работы",
+  "president": "Президент",
+  "mainCoach": "Главный тренер",
+  "foundYear": "Год основания",
+  "location": "Местоположение",
+  "phone": "Телефон",
+  "fax": "Факс",
+  "mail": "Почта",
+  "webSite": "Веб сайт",
+  "locale": "{lang, select, ru{Русский} tk{Türkmen} en{English} other{Не найдено}}",
+  "@locale": {
+    "placeholders": {
+      "lang": {}
+    }
+  },
+  "sportType": "{type, select, athletics{Легкая атлетика} basketball{Баскетбол} boxing{Бокс} cycling{Велосипедный спорт} football{Футбол} pingPong{Настольный теннис} weightlifting{Тяжелая атлетика} other{Не найдено}}",
+  "@sportType": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "sort": "Сортировка",
+  "filter": "Фильтры",
+  "videoNews": "Видео новости",
+  "localNews": "Новости страны",
+  "worldNews": "Мировые новости",
+  "confirm": "Подтвердить",
+  "clear": "Очистить",
+  "subtitles": "Субтитры",
+  "cancel": "Назад",
+  "playbackSpeed": "Скорость воспроизведения",
+  "comments": "Комментарии",
+  "results": "Результаты",
+  "team": "Команда",
+  "games": "Игры",
+  "wins": "Выигрыши",
+  "draws": "Ничьи",
+  "loses": "Поражения",
+  "points": "Очки",
+  "relegationZone": "Зона вылета",
+  "doctor": "Доктор",
+  "doctors": "Доктора",
+  "department": "Отдел",
+  "departmentName": "{name, select, physiology{Отдел Физиологии} cardiology{Отдел Кардиологии} urology{Отдел Урологии} surgery{Отдел Хирургии} other{not found}}",
+  "@departmentName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "position": "Должность",
+  "athleteCount": "Количество спортсменов",
+  "coachCount": "Количество тренеров",
+  "contacts": "Контакты",
+  "relatedGyms": "Спортзалы неподалеку",
+  "gymsFound": "Найденные спортзалы ",
+  "gymsSearch": "Поиск спортзалов",
+  "searchText": "Введите название спортзала",
+  "filterTitle": "Вы сможете найти спортзалы, используя фильтры ниже",
+  "competition": "{type, select, competition{Соревнование} training{Трейнинг} event{Мероприятие} other{Не локализировано}}",
+  "@competition": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aboutUs": "О нас",
+  "login": "Войти",
+  "register": "Зарегистрироваться",
+  "logout": "Выйти из аккаунта",
+  "fillField": "Заполните поле",
+  "onlyText": "Только буквы",
+  "inputCorrectInfo": "Введите верные данные",
+  "email": "Эл почта",
+  "password": "Пароль",
+  "name": "Имя",
+  "surname": "Фамилия",
+  "catalog": "Каталог",
+  "addToCart": "В корзину",
+  "removeFromCart": "Удалить из корзины",
+  "cart": "Корзина",
+  "total": "Итого",
+  "checkout": "Оформить заказ",
+  "favorites": "Избранные",
+  "noTrainers": "На данный момент тренеров нет",
+  "noAthletes": "На данный момент спортсменов нет",
+  "gymsIsNotFound": "Спортзалы не найдены",
+  "competitionsIsNotFound": "Соревнования не найдены",
+  "forParticipation": "Для участия",
+  "emptyData": "Нет данных",
+  "error": "Ошибка",
+  "retry": "Повторить",
+  "startSearching": "Начните искать",
+  "aboutUsSubtitle": "Платформа, вбирающая в себя все, что связано со спортом",
+  "successfullySaved": "Успешно сохранено в ",
+  "certificateForAthlete": "Медицинская справка для спортсменов",
+  "certificateForCoach": "Медицинская справка для тренеров",
+  "filterName": "{filter, select, locations{Велаят} sports{Вид спорта} competitionTypes{Вид спорта} venues{Местоположение} other{Фильтр} }",
+  "@filterName": {
+    "placeholders": {
+      "filter": {}
+    }
+  }
+}

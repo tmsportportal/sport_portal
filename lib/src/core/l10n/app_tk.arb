@@ -1,0 +1,147 @@
+{
+  "home": "Esasy",
+  "settings": "Sazlamalar",
+  "categories": "Kategoriýalar",
+  "search": "Gözlemek",
+  "athletes": "Sport ussatlary",
+  "coaches": "Tälimçiler",
+  "sportNews": "Sport täzelikler",
+  "kindsOfSport": "Sport görnüşler",
+  "hello": "Sportportala \nHoş geldiňiz!",
+  "slogan": "Sporta biz bilen dowat et!",
+  "darkTheme": "Gara tema",
+  "language": "Dil",
+  "categoryName": "{categoryName, select, sportNews{Sport täzelikler} kindsOfSport{Sport görnüşler} coaches{Tälimçiler} athletes{Türgenler} healthCare{Saglygy goramak} gyms{Sport zallar we toparlar} competitions{Sport bäsleşikler}  properNutrition{Dogry iýmit} shops{Sport Dükanlar}   other{Test}}",
+  "@categoryName": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "categoryDescription": "{categoryName, select, sportNews{Ýurdumyzdaky we dünýädäki sport täzelikleri}  kindsOfSport{Türkmenistanyň sport we ýaşlar syýasaty ministrliginiň Düzümindäki federasiýalar} coaches{Türkmenistanyň sport we ýaşlar syýasaty ministrliginiň Düzümindäki tälimçiler} athletes{Türkmenistanyň sport we ýaşlar syýasaty ministrliginiň Düzümindäki türgenler} healthCare{Döwlet Sport lukmançylygy ylmy we amaly merkeziniň lukmançylyk hyzmatlarynyň sanawy} gyms{Türkmenistandaky ähli sport toplumlary we onda hereket edýän sport toparlary} competitions{Türkmenistanda geçirilýän ähli sport bäsleşikleri we sport çäreleri} properNutrition{Ýurdumyzdaky ähli sport dükanlarynyň online satylýan ýeri} shops{Ýurdumyzdaky ähli sport dükanlarynyň online satylýan ýeri} other{not localized}}",
+  "@categoryDescription": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "sportCategory": "{categoryName, select, athletics{Türkmenistanyň Atletika Federasiýasy} basketball{Türkmenistanyň Basketbol Federasiýasy} boxing{Türkmenistanyň Boks Federasiýasy} cycling{Türkmenistanyň Welosipedy Sport Federasiýasy} football{Türkmenistanyň Futbol Federasiýasy} pingPong{Türkmenistanyň Stol Tennis Federasiýasy} weightlifting{Türkmenistanyň Agyr Atletika Federasiýasy} other{Tapylmady}}",
+  "@sportCategory": {
+    "placeholders": {
+      "categoryName": {}
+    }
+  },
+  "seeAll": "Hemmesini gör",
+  "athlete": "Türgen",
+  "coach": "Tälimçi",
+  "informationTiles": "{tileName, select, workHistory{Işlän ýerleri} awards{Baýraklary} other{Tapylmady}}",
+  "@informationTiles": {
+    "placeholders": {
+      "tileName": {}
+    }
+  },
+  "age": "Ýaşy",
+  "birthPlace": "Doglan ýeri",
+  "workingExperience": "Iş tejribesi",
+  "sportLevel": "Sport derejesi",
+  "workPlace": "Işlän ýeri",
+  "president": "Prezident",
+  "mainCoach": "Baş tälimçi",
+  "foundYear": "Döredilen ýyly",
+  "location": "Ýerleşýän ýeri",
+  "phone": "Telefon",
+  "fax": "Faks",
+  "mail": "E-mail",
+  "webSite": "Web saýt",
+  "locale": "{lang, select, ru{Русский} tk{Türkmen} en{English} other{Tapylmady}}",
+  "@locale": {
+    "placeholders": {
+      "lang": {}
+    }
+  },
+  "sportType": "{type, select, athletics{Atletika} basketball{Basketbol} boxing{Boks} cycling{Welosipedy Sport} football{Futbol} pingPong{Stol Tennis} weightlifting{Agyr Atletika} other{Tapylmady}}",
+  "@sportType": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "sort": "Tertiple",
+  "filter": "Filtrle",
+  "videoNews": "Wideo täzelikler",
+  "localNews": "Milli täzelikler",
+  "worldNews": "Dünýa täzelikler",
+  "confirm": "Tassykla",
+  "clear": "Arassala",
+  "subtitles": "Subtitrler",
+  "cancel": "Yza",
+  "playbackSpeed": "Wideo tizligi",
+  "comments": "Teswirler",
+  "results": "Netijeler",
+  "team": "Topar",
+  "games": "Oýunlar",
+  "wins": "Ýenişler",
+  "draws": "Deňlik",
+  "loses": "Utuluşlar",
+  "points": "Utuklar",
+  "relegationZone": "Ligadan düşmek",
+  "doctor": "Lukman",
+  "doctors": "Lukmanlar",
+  "department": "Bölüm",
+  "departmentName": "{name, select, physiology{Fiziologiýa bölümi} cardiology{Kardiologiýa bölümi} urology{Urologiýa bölümi} surgery{Hirurgiýa bölümi}other{not found}}",
+  "@departmentName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "position": "Iş wezipesi",
+  "athleteCount": "Türgenleriň sany",
+  "coachCount": "Tälimçileriň sany",
+  "contacts": "Kontaklar",
+  "relatedGyms": "Ýakynda ýerleşýän sport desgalaryň sanawy",
+  "gymsFound": "Tapylan sport desgalaryň sanawy",
+  "gymsSearch": "Sport desgany gözlemek",
+  "searchText": "Desgalaryň adyny giriziň",
+  "filterTitle": "Aşakdan gyzyklanýan görnüşiňe görä saýlap bilersiňiz",
+  "shop": "",
+  "competition": "{type, select, competition{Bäsleşik} training{Sport okuw} event{Sport çäre} other{Terjime ýok}}",
+  "@competition": {
+    "placeholders": {
+      "type": {}
+    }
+  },
+  "aboutUs": "Biz barada",
+  "login": "Ulgama gir",
+  "register": "Agza bol",
+  "logout": "Ulgamdan çyk",
+  "fillField": "Meýdany dolduryň",
+  "onlyText": "Diňe harplar",
+  "inputCorrectInfo": "Dogry maglumatlar giriziň",
+  "email": "Poçtaňyz",
+  "password": "Parol",
+  "name": "Adyňyz",
+  "surname": "Familiýaňyz",
+  "catalog": "Katalog",
+  "addToCart": "Sebede goş",
+  "removeFromCart": "Sebetden aýyr",
+  "cart": "Sebet",
+  "total": "Jemi",
+  "checkout": "Sargyt et",
+  "favorites": "Halanlarym",
+  "noTrainers": "Tälimçiler tapylmady",
+  "noAthletes": "Türgenler tapylmady",
+  "gymsIsNotFound": "Sport zallar tapylmady",
+  "competitionsIsNotFound": "Sport bäsleşikler tapylmady",
+  "forParticipation": "Gatnaşmak üçin",
+  "emptyData": "Maglumat ýok",
+  "error": "Ýalňyşlyk",
+  "retry": "Täzeden",
+  "startSearching": "Gözlege başlaň",
+  "aboutUsSubtitle": "Sport bilen bagly ähli zatlary özünde jemleýän platforma",
+  "successfullySaved": "Üstünlikli ýüklendi ",
+  "certificateForAthlete": "Türgenler üçin Medisina barlagy",
+  "certificateForCoach": "Tälimçiler üçin Medisina barlagy",
+  "filterName": "{filter, select, locations{Welaýat} sports{Sportuň görnüşi} competitionTypes{Sportuň görnüşi} venues{Geçirilen ýeri} other{Filter} }",
+  "@filterName": {
+    "placeholders": {
+      "filter": {}
+    }
+  }
+}

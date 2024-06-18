@@ -1,0 +1,191 @@
+{
+    "home": "Home",
+    "@home": {
+        "description": "home screen title"
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "settings screen title"
+    },
+    "categories": "Categories",
+    "@categories": {
+        "description": "categories screen title"
+    },
+    
+    "search": "Search",
+    "@search": {
+        "description": "search screen title"
+    },
+    "athletes": "Athletes",
+    "@athletes": {
+        "description": "athletes category title"
+    },
+    "coaches": "Coaches",
+    "@coaches": {
+        "description": "coaches category title"
+    },
+    "sportNews": "Sport news",
+    "@sportNews": {
+        "description": "sport news category title"
+    },
+    "kindsOfSport": "Kinds of sport",
+    "@kindsOfSport": {
+        "description": "kinds of sport category title"
+    },
+    "hello": "Hello, Athlete",
+    "@hello": {
+        "description": "Hello message title"
+    },
+    "slogan": "Follow the sport with us!",
+    "@slogan": {
+        "description": "Hello message description"
+    },
+    "darkTheme": "Dark theme",
+    "@darkTheme": {
+        "description": "Theme switcher title"
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language switcher title"
+    },
+    "categoryName": "{categoryName, select, sportNews{Sport news} kindsOfSport{Kinds of the Sport} coaches{Coaches} athletes{Athletes} healthCare{Healthcare} gyms{Gyms} competitions{Competitions} other{not localized}}",
+    "@categoryName": {
+        "placeholders": {
+            "categoryName": {}
+        }
+    },
+    "categoryDescription": "{categoryName, select, sportNews{National and international sports news} kindsOfSport{Federations under the Ministry of Sports and Youth Policy of Turkmenistan} coaches{Trainers in the Ministry of Sports and Youth Policy of Turkmenistan} athletes{Sport and youth policy of Turkmenistan Athletes in the Ministry} healthCare {List of medical services of the State Scientific and Practical Center of Sports Medicine} gyms{All sports complexes and sports teams operating in Turkmenistan} competitions{All sports competitions and sports activities held in Turkmenistan} other{not localized}}",
+    "@categoryDescription": {
+        "placeholders": {
+            "categoryName": {}
+        }
+    },
+    "sportCategory": "{categoryName, select, athletics{Turkmenistan Athletics Federation} basketball{Turkmenistan Basketball Federation} boxing{Turkmenistan Boxing Federation} cycling{Turkmenistan Cycling Federation} football{Turkmenistan Football Federation} pingPong{Turkmenistan Tennis Federation} weightlifting{Turkmenistan Weightlifting Federation} other{Not found}}",
+    "@sportCategory": {
+        "placeholders": {
+            "categoryName": {}
+        }
+    },
+    "seeAll": "See All",
+    "@seeAll": {
+        "description": "See All button title"
+    },
+    "athlete": "Athlete",
+    "@athlete": {
+        "description": "Athlete screen title"
+    },
+    "coach": "Coach",
+    "@coach": {
+        "description": "Coach screen title"
+    },
+    "informationTiles": "{tileName, select, workHistory{Working history} awards{Awards} other{Not Found}}",
+    "@informationTiles": {
+         "placeholders": {
+            "tileName": {}
+        }
+    },
+    "age": "Age",
+    "@age": {
+        "description": "Age title"
+    },
+    "birthPlace": "Birth place",
+    "@birthPlace": {
+        "description": "Birth place title"
+    },
+    "workingExperience": "Working experience",
+    "@workingExperience": {
+        "description": "Working experience title"
+    },
+    "sportLevel": "Sport level",
+    "@sportLevel": {
+        "description": "Sport level title"
+    },
+    "workPlace": "Work place",
+    "@workPlace": {
+        "description": "Work place title"
+    },
+    "president": "President",
+    "@president": {
+        "description": "President title"
+    },
+    "mainCoach": "Main coach",
+    "@mainCoach": {
+        "description": "Main coach title"
+    },
+    "foundYear": "Foundation year",
+    "@foundYear": {
+        "description": "Foundation year title"
+    },
+    "location": "Location",
+    "@location": {
+        "description": "Location title"
+    },
+    "phone": "Phone",
+    "@phone": {
+        "description": "Phone number title"
+    },
+    "fax": "Fax",
+    "@fax": {
+        "description": "Fax title"
+    },
+    "mail": "E-mail",
+    "@mail": {
+        "description": "E-mail title"
+    },
+    "webSite": "Web site",
+    "@webSite": {
+        "description": "Web site title"
+    },
+    "locale": "{lang, select, ru{Русский} tk{Türkmen} en{English} other{Not found}}",
+    "@locale": {
+        "placeholders": {
+            "lang": {}
+        }
+    },
+    "sportType": "{type, select, athletics{Athletetics} basketball{Basketball} boxing{Boxing} cycling{Cycling} football{Football} pingPong{Tennis} weightlifting{Weightlifting} other{Not found}}",
+    "@sportType": {
+        "placeholders": {
+            "type": {}
+        }
+    },
+
+    "sort":"Sort",
+    "filter":"Filter",
+    "videoNews":"Video news",
+    "localNews":"Local news",
+    "worldNews":"World news",
+    "confirm":"Confirm",
+    "subtitles":"Subtitles",
+    "cancel":"Cancel",
+    "playbackSpeed":"Playback speed",
+    "comments":"Comments",
+    "results":"Results",
+    "team":"Team",
+    "games":"Games",
+    "wins":"Wins",
+    "draws":"Draws",
+    "loses":"Loses",
+    "points":"Points",
+    "relegationZone":"Relegation zone",
+    "doctor":"Doctor",
+    "doctors":"Doctors",
+    "department": "Department",
+    "departmentName": "{name, select, physiology{Physiology department} cardiology{Cardiology department} urology{Urology department} surgery{Surgery department} other{not found}}",
+    "@departmentName" : {
+        "placeholders": {
+            "name": {}
+        }
+    },
+
+    "position":"Position",
+    "athleteCount":"Athlete count",
+    "coachCount":"Coach count",
+    "contacts":"Contacts",
+    "relatedGyms":"Related gyms",
+    "gymsFound":"Gyms found",
+    "gymsSearch":"Gyms search",
+    "search":"Search",
+    "searchText":"Input gym name",
+    "filterTitle":"You can find a gym, using filters below"
+
+}
