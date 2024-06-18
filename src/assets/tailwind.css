@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+  padding-left: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #a9cfef;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #077ee6;
+  border-radius: 5px;
+}
+
+/* Custom CSS for text shadow */
+.text-shadow {
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5); /* horizontal-offset vertical-offset blur-color opacity */
+}

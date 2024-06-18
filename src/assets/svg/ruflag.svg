@@ -1,0 +1,39 @@
+<svg 
+    width="21" 
+    height="15" 
+    viewBox="0 0 21 15" 
+    fill="none" 
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <g id="Russia (RU)" clip-path="url(#clip0_679_1758)">
+        <g id="Group">
+            <path 
+                id="Vector" 
+                fill-rule="evenodd" 
+                clip-rule="evenodd" 
+                d="M0 0.978195H21V14.9782H0V0.978195Z" 
+                fill="white"/>
+            <path 
+                id="Vector_2" 
+                fill-rule="evenodd" 
+                clip-rule="evenodd" 
+                d="M0 5.64486H21V14.9782H0V5.64486Z" 
+                fill="#0039A6"/>
+            <path 
+                id="Vector_3" 
+                fill-rule="evenodd" 
+                clip-rule="evenodd" 
+                d="M0 10.3115H21V14.9782H0V10.3115Z" 
+                fill="#D52B1E"/>
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_679_1758">
+            <rect 
+                width="21" 
+                height="14" 
+                fill="white" 
+                transform="translate(0 0.978195)"/>
+        </clipPath>
+    </defs>
+</svg>
